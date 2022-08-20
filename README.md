@@ -1,29 +1,38 @@
-### Hi there 👋
+```js
+import Desenvolvedor from 'Jonatan';
+class SobreMim extends Desenvolvedor {
+  nome     = 'Jonatan Reseck';
+  area    = 'Desenvolvimento de Sistemas';
+  trabalho  = 'Compels';
+  local = 'Santa Rita do Sapucaí';
+}
+class Skills extends Desenvolvedor {
+  linguagens = [
+   'Java', 
+   'Typescript', 
+   'Javascript', 
+   'C++'
+  ];
+  bibliotecas  = [
+   'React Native'
+   ];
+  frameworks = [
+   'Spring Boot', 
+   'Angular'
+  ];
+}
+```
 
- <div>
-  <a href="https://github.com/jonatanreseck">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatanreseck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatanreseck&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
- <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> 
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- 
-  ##
- 
-<div> 
-   <a href="https://www.instagram.com/jonatanreseck" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:jonatanreseck@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonatan-reseck" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.urionlinejudge.com.br/judge/pt/users/statistics/68811"  target="_blank" >
-  <img src="https://i.pinimg.com/originals/2c/66/de/2c66decfe536a1b4dd0f5eccba92cb85.png" height="30px" margin-left="7px"/>
- </a> 
- 
-  ##
- 
-</div>
- 
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jonatanreseck@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatan-reseck" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jonatanreseck"/></a>
+</p>  
